@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Punto 1",
+    "telefono": "123-456-7890",
+    "horarios": "Lunes a Viernes: 9am - 5pm",
+    "direccion": "Estacion de tranvia, Bogotá",
+    "latitud": 4.609710,
+    "longitud": -74.081750
+  },
+  {
+    "nombre": "Punto 2",
+    "telefono": "987-654-3210",
+    "horarios": "Lunes a Viernes: 10am - 6pm",
+    "direccion": "Calle 17, Bogotá",
+    "latitud": 4.609000,
+    "longitud": -74.080000
+  },
+  {
+    "nombre": "Punto 3",
+    "telefono": "555-123-4567",
+    "horarios": "Lunes a Sábados: 8am - 7pm",
+    "direccion": "Carrera 17, Bogotá",
+    "latitud": 4.611234,
+    "longitud": -74.078900
+  },
+  {
+    "nombre": "Punto 4",
+    "telefono": "111-222-3333",
+    "horarios": "Martes a Viernes: 10am - 4pm",
+    "direccion": "Carrera 15, Bogotá",
+    "latitud": 4.605678,
+    "longitud": -74.079800
+  },
+  {
+    "nombre": "Punto 5",
+    "telefono": "444-555-6666",
+    "horarios": "Lunes a Domingos: 7am - 9pm",
+    "direccion": "Calle 13, Bogotá",
+    "latitud": 4.607890,
+    "longitud": -74.085000
+  },
+  {
+    "nombre": "Punto 6",
+    "telefono": "999-888-7777",
+    "horarios": "Miércoles a Sábados: 11am - 8pm",
+    "direccion": "Calle 12, Bogotá",
+    "latitud": 4.605432,
+    "longitud": -74.084500
+  }
+]
